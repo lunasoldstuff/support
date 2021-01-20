@@ -1,4 +1,4 @@
-# Docusaurus Example
+# The Mint Farm Support [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/stampylongr/support)
 
 This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed with Vercel and zero configuration.
 
